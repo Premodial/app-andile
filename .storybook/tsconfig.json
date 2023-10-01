@@ -1,0 +1,8 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+      "types": ["vite/client", "svelte", "jest"]
+    },
+    "include": ["../src/**/*.tsx", "../src/**/*.d.tsx", "../src/**/*.tsx", "../src/**/*.tsx"]
+}
+  
